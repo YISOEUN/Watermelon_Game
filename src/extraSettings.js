@@ -36,7 +36,7 @@ let fruitSlowDown = false;
 let clickChangeFruit = true;
 
 // 게임 사이트의 홈페이지 제목을 지정할 수 있음
-document.getElementsByTagName("title")[0].innerText = '선영 바보';
+document.getElementsByTagName("title")[0].innerText = 'seonyoung bano';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
